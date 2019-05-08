@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Make That Button Shake
+title: ""
 ---
 
 Website index.
