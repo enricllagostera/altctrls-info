@@ -1,6 +1,6 @@
 # Make That Button Shake
 
-Repo readme.
+First page.
 
 > A list of tools and resources for making alternative game controllers and physical-digital hybrids.
 
