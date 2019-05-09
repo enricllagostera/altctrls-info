@@ -1,4 +1,19 @@
 ---
 ---
 
-@import "skeleton"
+@import "skeleton";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900,900i|Open+Sans:400,400i,700,700i');
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 64px;
+    text-transform: uppercase;
+    letter-spacing: -3px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
