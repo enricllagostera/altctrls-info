@@ -3,17 +3,42 @@
 
 @import "skeleton";
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:900,900i|Open+Sans:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,900,900i|Open+Sans:300,300i,400,400i,700,700i');
 
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
-    font-size: 64px;
-    text-transform: uppercase;
-    letter-spacing: -3px;
+    font-size: 58px;
+    /* text-transform: uppercase; */
+    /* font-style: italic; */
+    letter-spacing: -4px;
+    margin: 3rem 0 3rem 0;
+    color: #ffd100;
+    /* border-top:  1px solid; */
+    /* border-bottom: #430067 5px solid; */
+    text-align: center;
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
+    color: #16171a;
+    background-color: #fff;
+}
+
+a, a:link, a:hover {
+    color: #ff2674;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.intro-line {
+    font-size: 3rem;
+    font-weight: 300;
+    border-top: #ffd100 1px solid;
+    border-bottom: #ffd100 1px solid;
+    text-align: center;
+    padding: 2rem 1rem 2rem 1rem;
 }

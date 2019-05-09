@@ -1,35 +1,48 @@
 ---
 layout: page
-title: "Make That Button Shake"
+title: Make That Button Shake?
 ---
 
-A list of tools and resources for making alternative game controllers and physical-digital hybrids.
+A list of tools and resources for making alternative game controllers and physical-digital hybrids
+{: .intro-line}
 
-If you'd like to help create this list, please check the contributing section. Suggestions of tools
+If you'd like to participate in making this list, please check the [contributing section](#contributing). Suggestions, revisions, and ideas are always welcome!
 
 ### How to Use
 
-- Go through the Table of Contents and check.
-- Search the page for a keyword or phrase (for example, "cardboard", "magnets").
+Here are some different ways you can use this list:
+
+- Go through the [table of contents](#table-of-contents) and just browse for topics that pick your interest.
+- Search the page (`Ctrl+F`/ `Cmd+F` / `F3`) for a keyword or phrase (for example, "cardboard", "magnets", "cameras").
+- Check the [inspiration](#inspiration) section for links to games, showcases and events.
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Tools](#tools)
-  - [Electronics](#electronics)
-  - [Crafting](#crafting)
-  - [Game Engine Plugins](#game-engine-plugins)
-  - [Interesting Software](#interesting-software)
 - [Resources](#resources)
-  - [Articles](#articles)
-  - [Tutorials](#tutorials)
+  - [Crafting](#crafting)
+  - [Electronics](#electronics)
+  - [Software](#software)
+  - [Libraries](#libraries)
+  - [Game Engine Plugins](#game-engine-plugins)
+  - [Alternative Controller Design](#alternative-controller-design)
   - [Open Projects](#open-projects)
-- [Inspiration](#inspiration)
+  - [Inspiration](#inspiration)
 - [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
 ---
 
-## Tools
+## Resources
+
+### Crafting
+
+- Worbla.
+- Polydoh.
+- Woodworking.
+- PVC construction.
+- Cardboard article.
+- Papier-maché.
 
 ### Electronics
 
@@ -38,38 +51,33 @@ If you'd like to help create this list, please check the contributing section. S
 - Arduino Uno.
 - Micro:bit.
 - Raspberry Pi.
+- Conductive thread resources.
 
-### Crafting
+### Software
 
-- Worbla.
+- [JoyToKey](https://joytokey.net/en/) - a desktop software that converts inputs from gamepads and joysticks to keyboard and mouse. Price: free trial and 7 USD for continued use. License: shareware.
+
+### Libraries
+
+- JohnnyFive.
 
 ### Game Engine Plugins
 
 - Serial Port in Godot game engine.
 - Ardity : A serial port plugin for Unity.
+- Alan Zucconi's Arduino and Unity articles.
 - OscJack : A small library for receiving and sending OSC messages in Unity.
-- MidiJack : A small library for receiving and sending Midi messages in Unity.
+- MidiJack : A small library for receiving and sending MIDI messages in Unity.
 
-### Interesting Software
-
-- JohnnyFive.
-
-## Resources
-
-### Articles
+### Alternative Controller Design
 
 - Tatiana Vilela's joysticks
-- Conductive thread resources.
-
-### Tutorials
-
-- Alan Zucconi articles.
 
 ### Open Projects
 
-- [Red Dirt](https://github.com/enricllagostera/RedDirt) - A narrative game using smartphone magnetic sensors, made in Unity, using [Sensing Gestures](). Free / LGPLv3.
+- [Red Dirt](https://github.com/enricllagostera/RedDirt) - A narrative game using smartphone magnetic sensors, made in Unity, using [Sensing Gestures](https://github.com/enricllagostera/SensingGestures). Free / LGPLv3.
 
-## Inspiration
+### Inspiration
 
 - Shake That Button
 
@@ -77,11 +85,15 @@ If you'd like to help create this list, please check the contributing section. S
 
 ## Contributing
 
-Our goal is to slowly grow this list so it can help more folks. Feel welcome to contribute with tools and resources that help **you** to make alternative controllers or physical-digital hybrids.
+Our goal is to slowly grow this list so it can help more folks. You are welcome to contribute with tools and resources that have helped you to create different ways to play / interact with a game.
 
-We aim to make available enough information to support people looking for tools and resources that fit their situation. This means providing a short description and a working link. If possible, include information about a tools' price and/or license. Also, if you have a suggestion about in which section to include it, that's great.
+We aim to make available information to support people looking for tools and resources that fit their diverse situation. This means providing each link with a short description and, if possible, information about price and/or license. If you want to add the link to a specific topic or even propose a new topic altogether, that is great too.
 
-Please, use the following format when suggesting a tool or resource: `[Tool](link) — description. Price / License.`
+Please, use the following format when contributing a tool or resource: `+ [Tool](link) — description. Price: <value>. License: <some license>.`
+
+Example: `+ [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Price: free. License: MIT.`
+
+### Code of Conduct
 
 - Code of Conduct goes here.
 
