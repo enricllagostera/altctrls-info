@@ -83,11 +83,13 @@ Some times it can be helpful to see the internal documents and process of differ
 
 Our goal is to slowly grow this list so it can help more folks. You are welcome to contribute with tools and resources that have helped you to create different ways to play / interact with a game.
 
-We aim to make available information to support people looking for information in diverse situation. To help with that, we ask contributors to provide each link with a short description and, if possible, information about price and/or license. When possible, please credit that resource's creator on your link description. If you want to add the link to a specific topic or even propose a new topic altogether, that is great too.
+We aim to make available information to support people looking for information in diverse situation. To help with that, we ask contributors to provide each link with a short description and, if possible, information about price and/or license. When possible, please credit the creators of that resource on your link description. If you want to add the link to a specific topic or even propose a new topic altogether, that is great too.
 
 Please, use the following format when contributing a tool or resource: `- [Tool](link) — description. Made by <creators>. Price: <value>. License: <some license>.`
 
-Example: `- [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Made by Bocoup and contributors. Price: free. License: MIT.`
+Example: _- [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Made by Bocoup and contributors. Price: free. License: MIT._
+
+If you contributing, we wiil add your name (or nickname) to the contributors list by default, but you can opt-out too. Just mention that in your [contribution issue]().
 
 ### Code of Conduct
 
