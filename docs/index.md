@@ -1,32 +1,28 @@
 ---
-layout: page
-title: Make That Button Shake?
+layout: default
 ---
 
-A list of tools and resources for making alternative game controllers and physical-digital hybrids
+{{ site.description }}
 {: .intro-line}
+
+Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some information to help you start to make your own thing? This community-curated list of resources is here to support you.
 
 If you'd like to participate in making this list, please check the [contributing section](#contributing). Suggestions, revisions, and ideas are always welcome!
 
 ### How to Use
 
-Here are some different ways you can use this list:
+Feel free to browse for topics that pick your interest, but you can also search the page (`Ctrl+F`/ `Cmd+F` / `F3`) for a keyword or phrase (for example, "cardboard", "magnets", "cameras", "Arduino").
 
-- Go through the [table of contents](#table-of-contents) and just browse for topics that pick your interest.
-- Search the page (`Ctrl+F`/ `Cmd+F` / `F3`) for a keyword or phrase (for example, "cardboard", "magnets", "cameras").
-- Check the [inspiration](#inspiration) section for links to games, showcases and events.
-
-## Table of Contents <!-- omit in toc -->
+## Contents <!-- omit in toc -->
 
 - [Resources](#resources)
   - [Crafting](#crafting)
   - [Electronics](#electronics)
+  - [Game Engine Plugins and Tools](#game-engine-plugins-and-tools)
   - [Software](#software)
   - [Libraries](#libraries)
-  - [Game Engine Plugins](#game-engine-plugins)
   - [Alternative Controller Design](#alternative-controller-design)
-  - [Open Projects](#open-projects)
-  - [Inspiration](#inspiration)
+  - [Open Projects and Making Ofs](#open-projects-and-making-ofs)
 - [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
 - [License](#license)
@@ -53,6 +49,16 @@ Here are some different ways you can use this list:
 - Raspberry Pi.
 - Conductive thread resources.
 
+### Game Engine Plugins and Tools
+
+If you are making a game using some specific game engines, you might be able to use some of the resources below to connect your alternative controller to the software.
+
+- Serial Port in Godot game engine.
+- Ardity : A serial port plugin for Unity.
+- Alan Zucconi's Arduino and Unity articles.
+- OscJack : A small library for receiving and sending OSC messages in Unity.
+- MidiJack : A small library for receiving and sending MIDI messages in Unity.
+
 ### Software
 
 - [JoyToKey](https://joytokey.net/en/) - a desktop software that converts inputs from gamepads and joysticks to keyboard and mouse. Price: free trial and 7 USD for continued use. License: shareware.
@@ -61,25 +67,16 @@ Here are some different ways you can use this list:
 
 - JohnnyFive.
 
-### Game Engine Plugins
-
-- Serial Port in Godot game engine.
-- Ardity : A serial port plugin for Unity.
-- Alan Zucconi's Arduino and Unity articles.
-- OscJack : A small library for receiving and sending OSC messages in Unity.
-- MidiJack : A small library for receiving and sending MIDI messages in Unity.
 
 ### Alternative Controller Design
 
 - Tatiana Vilela's joysticks
 
-### Open Projects
+### Open Projects and Making Ofs
+
+Some times it can be helpful to see the internal documents and process of different projects. This topic is a list of making of articles and videos, as well as free and open-source projects. 
 
 - [Red Dirt](https://github.com/enricllagostera/RedDirt) - A narrative game using smartphone magnetic sensors, made in Unity, using [Sensing Gestures](https://github.com/enricllagostera/SensingGestures). Free / LGPLv3.
-
-### Inspiration
-
-- Shake That Button
 
 ---
 

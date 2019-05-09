@@ -3,7 +3,7 @@
     <ul style="list-style: none;">
       <li>
         {% if site.author %}
-        {{ site.author }}
+        {{ site.author | markdownify }}
         {% else %}
         {{ site.title }}
         {% endif %}
@@ -51,6 +51,6 @@
   </div>
 
   <div class="one-third column">
-    <p>{{ site.description | escape }}</p>
+    <p>{{ site.description | escape }}.</p>
   </div>
 </footer>
