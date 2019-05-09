@@ -5,13 +5,13 @@ layout: default
 {{ site.description }}
 {: .intro-line}
 
-Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some information to help you start to make your own thing? This community-curated list of resources is here to support you.
+Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some extra information to help you start to make your own thing? This community-curated list of resources is here to support you: it is focused on tools, materials, and things that you can use to make alternative controllers.
 
 If you'd like to participate in making this list, please check the [contributing section](#contributing). Suggestions, revisions, and ideas are always welcome!
 
 ### How to Use
 
-Feel free to browse for topics that pick your interest, but you can also search the page (`Ctrl+F`/ `Cmd+F` / `F3`) for a keyword or phrase (for example, "cardboard", "magnets", "cameras", "Arduino").
+Feel free to browse for topics that pick your interest, but you can also search the page (`Ctrl-F`/ `Cmd-F` / `F3`) for a keyword or phrase (for example, "cardboard", "magnets", "cameras", "Arduino").
 
 ## Contents <!-- omit in toc -->
 
@@ -65,7 +65,7 @@ If you are making a game using some specific game engines, you might be able to 
 
 ### Libraries
 
-- JohnnyFive.
+- [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Price: free. License: MIT.
 
 
 ### Alternative Controller Design
@@ -86,9 +86,9 @@ Our goal is to slowly grow this list so it can help more folks. You are welcome 
 
 We aim to make available information to support people looking for tools and resources that fit their diverse situation. This means providing each link with a short description and, if possible, information about price and/or license. If you want to add the link to a specific topic or even propose a new topic altogether, that is great too.
 
-Please, use the following format when contributing a tool or resource: `+ [Tool](link) — description. Price: <value>. License: <some license>.`
+Please, use the following format when contributing a tool or resource: `- [Tool](link) — description. Price: <value>. License: <some license>.`
 
-Example: `+ [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Price: free. License: MIT.`
+Example: `- [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Price: free. License: MIT.`
 
 ### Code of Conduct
 

@@ -8,7 +8,7 @@
         {{ site.title }}
         {% endif %}
       </li>
-      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li> <a href="mailto:{{ site.email }}">Email</a> the repo maintainer.</li>
       {% if site.privacy_policy_url %}
       <li>
         <a href="{{ site.privacy_policy_url }}">Privacy Policy</a>
@@ -51,6 +51,7 @@
   </div>
 
   <div class="one-third column">
+    <p><a href='#top'>{{ site.title | escape }}</a></p>
     <p>{{ site.description | escape }}.</p>
   </div>
 </footer>
