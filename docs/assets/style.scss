@@ -3,25 +3,28 @@
 
 @import "skeleton";
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,900,900i|Open+Sans:300,300i,400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed:300,300i,400,400i,500,700,700i,900,900i|Fira+Sans:300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
-    font-size: 6rem;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 700;
+    font-size: 4em;
     text-transform: lowercase;
-    letter-spacing: -2px;
-    margin: 2rem 0 40px 0;
+    margin: .5em 0 .5em 0;
     color: #ad6dea;
     text-align: center;
 }
 
-body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
-    color: #222;
+html { 
+    font-size: 13px;
     background-color: #fff;
     margin: 0 auto;
+}
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+    color: #333;
 }
 
 a, a:link, a:hover {
@@ -33,11 +36,25 @@ a, a:link, a:hover {
 }
 
 .intro-line {
-    font-size: 3rem;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2em;
     font-weight: 300;
-    border-top: #fb4771 1px solid;
-    border-bottom: #fb4771 1px solid;
     text-align: center;
-    padding: 2rem 1rem 2rem 1rem;
-    margin: 0 0 40px 0;
+    padding: 0 1em 0 1em;
+    margin: 0 0 1em 0;
+    text-transform: lowercase;
+}
+
+footer {
+    border-top: #fb4771 1px solid;
+    margin-top: 3rem;
+}
+
+footer div {
+    padding-top: 3rem;
+}
+
+.example code {
+    width: 100%;
+    white-space: pre-wrap;
 }
