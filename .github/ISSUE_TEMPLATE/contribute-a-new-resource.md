@@ -1,5 +1,5 @@
 ---
-name: New Resource Contribution
+name: Contribute a New Resource
 about: Use this template to add new resources to the list
 title: "[Resource] Your message"
 labels: enhancement
