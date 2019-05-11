@@ -17,19 +17,19 @@
 
   <script>
     myID = document.getElementById("top-nav");
-
+    var y = 0;
     var myScrollFunc = function ()
     {
-      var y = window.scrollY;
+      y = window.scrollY;
       if (y >= 1200)
       {
         myID.className = "docking-nav show"
-      } else
+      }
+      else
       {
         myID.className = "docking-nav hide"
       }
     };
-
     window.addEventListener("scroll", myScrollFunc);
   </script>
 

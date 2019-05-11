@@ -110,13 +110,16 @@ ul {
     left: 0;
     width: 100%;
     z-index: 9999;
-    padding: .5em .5em .3em .5em;
+    padding: .5em;
+    margin: 0 auto;
     /* width: 30%; */
     text-align: center;
 
     a, a:link, a:hover {
         color: #fff;
         text-decoration: none;
+        margin: 0 0 -.5em -2em;
+        width: 30%;
     }
 }
 
