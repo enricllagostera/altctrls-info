@@ -7,8 +7,8 @@
 
 h1 {
     font-family: 'Fira Sans', sans-serif;
-    font-weight: 700;
-    font-size: 4em;
+    font-weight: 300;
+    font-size: 3.5em;
     text-transform: lowercase;
     margin: .5em 0 .5em 0;
     color: #ad6dea;
@@ -16,7 +16,7 @@ h1 {
 }
 
 html { 
-    font-size: 13px;
+    font-size: 12px;
     background-color: #fff;
     margin: 0 auto;
 }
@@ -37,7 +37,7 @@ a, a:link, a:hover {
 
 .intro-line {
     font-family: 'Fira Sans', sans-serif;
-    font-size: 2em;
+    font-size: 1.75em;
     font-weight: 300;
     text-align: center;
     padding: 0 1em 0 1em;
@@ -57,4 +57,13 @@ footer div {
 .example code {
     width: 100%;
     white-space: pre-wrap;
+}
+
+li {
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+ul {
+    margin-left: 1.5em;
 }

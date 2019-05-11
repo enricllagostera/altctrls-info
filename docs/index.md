@@ -21,7 +21,6 @@ Feel free to browse for topics that pick your interest, but you can also search 
   - [Game Engine Plugins and Tools](#game-engine-plugins-and-tools)
   - [Software](#software)
   - [Libraries](#libraries)
-  - [Alternative Controller Design](#alternative-controller-design)
   - [Open Projects and Making Ofs](#open-projects-and-making-ofs)
 - [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
@@ -33,21 +32,19 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 ### Crafting
 
-- Worbla.
-- Polydoh.
-- Woodworking.
-- PVC construction.
-- Cardboard article.
-- Papier-maché.
+- [Adaptive Design Learning Library](https://www.adaptivedesign.org/learning-library) - Thorough, didactic, and detailed guide for building user-specific adaptations out of cardboard. It is a great resource for building sturdy and appoachable objects. Made by Adaptive Design Association Inc. Price: Free. 
+- [PVC construction](https://www.instructables.com/id/PVC-101/) - Very practical guide about constructing things with PVC pipes: a lightweight and affordable material. Made by trevormates.
+- [Recipes for conductive and non-conductive dough](https://squishycircuits.com/pages/dough-recipes) - You can use these to create soft surfaces and malleable circuits for your games. Made by Squishy Circuits. Price: Free.
+- [Worbla](http://www.cosplaysupplies.com/store.php?p=WOBA1) - This is a thermoplastic used often for making costumes and cosplay props. It can be hand-molded when heated and is easy to prime and finish. Price: 29 USD for a small sheet.
+- [The Complete and Utter Beginner’s Guide to Worbla](https://www.worbla.com/?p=8020) - A guide on safety procedures and how to use Worbla. Made by Worbla.
 
 ### Electronics
 
-- Makey Makey.
-- Teensy.
-- Arduino Uno.
-- Micro:bit.
-- Raspberry Pi.
+- [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) - a versatile board that has a good balance between number of connections, simplicity, and tons of libraries, examples, and compatible platforms. Made by Arduino. Price: 22 USD. License: open-source hardware.
 - Conductive thread resources.
+- [Makey Makey](https://makeymakey.com/) - a board that turns low-current connections into keypresses and mouse events, without changing any software. Great for turning bananas into keyboards! Made by JoyLabz. Price: 50 USD. License: Proprietary.
+- [Micro:bit](https://microbit.org/) - a small board with built-in accelerometers, compass and radio. It features a block-based visual programming system and can connect via USB and Bluetooth. Made by BBC. Price: 27 CAD.
+- Teensy.
 
 ### Game Engine Plugins and Tools
 
@@ -65,17 +62,13 @@ If you are making a game using some specific game engines, you might be able to 
 
 ### Libraries
 
-- [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Price: free. License: MIT.
-
-### Alternative Controller Design
-
-- Tatiana Vilela's joysticks
+- [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Made by Bocoup and contributors. Price: free. License: MIT.
 
 ### Open Projects and Making Ofs
 
-Some times it can be helpful to see the internal documents and process of different projects. This topic is a list of making of articles and videos, as well as free and open-source projects.
+Some times it can be helpful to see the source code, diagrams, documents, and process of different projects. This topic is a list of _making of_ articles, as well as free and open-source projects.
 
-- [Red Dirt](https://github.com/enricllagostera/RedDirt) - A narrative game using smartphone magnetic sensors, made in Unity, using [Sensing Gestures](https://github.com/enricllagostera/SensingGestures). Free / LGPLv3.
+- [Red Dirt](https://github.com/enricllagostera/RedDirt) - A narrative game using smartphone magnetic sensors, made in Unity, using [Sensing Gestures](https://github.com/enricllagostera/SensingGestures). Created by Enric Llagostera. Price: Free. License: LGPLv3.
 
 ---
 
@@ -83,19 +76,9 @@ Some times it can be helpful to see the internal documents and process of differ
 
 Our goal is to slowly grow this list so it can help more folks. You are welcome to contribute with tools and resources that have helped you to create different ways to play / interact with a game.
 
-We aim to make available information to support people looking for information in diverse situation. To help with that, we ask contributors to provide each link with a short description and, if possible, information about price and/or license. When possible, please credit the creators of that resource on your link description. If you want to add the link to a specific topic or even propose a new topic altogether, that is great too.
+[You can use this link to propose new resources or help us fix errors in the list.](https://github.com/enricllagostera/awesome-altctrls/issues/new/choose) If you contribute, we will add your name (or nickname) to the contributors list by default, but you can opt-out too. Just mention that in your contribution issue.
 
-Please, use the following format when contributing a tool or resource: 
-
-`- [Tool](link) — description. Made by <creators>. Price: <value>. License: <some license>.`
-{:.example}
-
-Example:
-
-`- [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Made by Bocoup and contributors. Price: free. License: MIT.`
-{:.example}
-
-If you contribute, we will add your name (or nickname) to the contributors list by default, but you can opt-out too. Just mention that in your [contribution issue]().
+We aim to be informative and support people in diverse situations. To help with that, we ask contributors to provide each link with a short description and, if possible, information about price and / or license. When possible, please credit the creators of the resource on your link description. If you want to add the link to a specific topic or even propose a new topic altogether, that is great too.
 
 ### Code of Conduct
 
