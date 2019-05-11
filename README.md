@@ -1,12 +1,12 @@
-{{ site.description }}
-{: .intro-line}
+# Crafting Shaking Buttons
+
+> A list of resources for crafting alternative controllers, playful installations and physical-digital hybrids
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Issues](https://img.shields.io/github/issues/enricllagostera/awesome-altctrls.svg)](https://github.com/enricllagostera/awesome-altctrls/issues) [![GitHub Stars](https://img.shields.io/github/stars/enricllagostera/awesome-altctrls.svg?style=social&label=Star)](https://github.com/enricllagostera/awesome-altctrls)
-{: .badges}
 
-Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some extra information to help you start to make your own thing? This community-curated list of resources is here to support you: it is focused on tools, materials, and things that you can use to make alternative controllers.
+Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some extra information to help you start to make your own thing? This community-curated list of resources is here to support you: it is focused on tools, materials, and things that you can use to craft alternative controllers.
 
-If you'd like to participate in making this list, please check the [contributing section](#contributing). Suggestions, revisions, and ideas are always welcome!
+If you'd like to join in curating this list, please check the [contributing section](#contributing). Suggestions, revisions, and ideas are always welcome!
 
 ### How to Use
 
@@ -14,18 +14,20 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 ## Contents <!-- omit in toc -->
 
-- [Resources](#resources)
-  - [Articles](#articles)
-  - [Crafting](#crafting)
-  - [Electronics](#electronics)
-  - [Game Engine Plugins and Tools](#game-engine-plugins-and-tools)
-  - [Software](#software)
-  - [Libraries](#libraries)
-  - [Open Projects and 'Making Of's](#open-projects-and-making-ofs)
-- [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-- [License](#license)
-  - [Contributors](#contributors)
+- [Crafting Shaking Buttons](#crafting-shaking-buttons)
+    - [How to Use](#how-to-use)
+  - [Resources](#resources)
+    - [Articles](#articles)
+    - [Crafting](#crafting)
+    - [Electronics](#electronics)
+    - [Game Engine Plugins and Tools](#game-engine-plugins-and-tools)
+    - [Software](#software)
+    - [Libraries](#libraries)
+    - [Open Projects and 'Making Of's](#open-projects-and-making-ofs)
+  - [Contributing](#contributing)
+    - [Code of Conduct](#code-of-conduct)
+  - [License](#license)
+    - [Contributors](#contributors)
 
 ---
 
@@ -94,7 +96,7 @@ Sometimes it can be helpful to access and explore the source code, diagrams, doc
 
 You can use the link below to propose new resources, help us fix errors in the list, suggest, comment or ask things.
 
-[Click here to contribute](https://github.com/enricllagostera/awesome-altctrls/issues/new/choose){: .button .button-primary .contribution-btn}
+[Click here to contribute](https://github.com/enricllagostera/awesome-altctrls/issues/new/choose)
 
 Our goal is to slowly grow this list so it can help more folks. You are welcome to contribute with tools and resources! We aim to be informative and support people in diverse situations, and we prioritize affordable and approachable resources.
 
@@ -115,4 +117,3 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 [awesome-altctrls!](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
 
 - [Enric Llagostera](https://enric.llagostera.com.br/) (repo maintainer).
-{:.contributors-list}

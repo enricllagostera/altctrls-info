@@ -37,20 +37,20 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 ### Articles
 
-- [Burn The Keyboard workshop](https://joon.be/portfolio/burn-the-keyboard/) - A workshop on quickly creating three custom controllers out of affordable and easily available materials. Made by [Joon](https://joon.be/).
+- [Burn The Keyboard workshop](https://joon.be/portfolio/burn-the-keyboard/) - A workshop on quickly creating custom controllers out of affordable and easily available materials. Made by [Joon](https://joon.be/).
 - [Installation Required - The incredible potential of custom controllers.](https://gamejolt.com/@AlexVsCoding/post/installation-required-the-incredible-potential-of-custom-controll-neswxgaq) - An article about the creative process and possibilities of making alternative game controllers. Made by [Alex Johansson](https://alexvscoding.itch.io/).
-- [Installation Required - Why you should build an arcade cabinet for your game.](https://gamasutra.com/blogs/AlexJohansson/20141230/233317/Installation_Required__Why_you_should_build_an_arcade_cabinet_for_your_game.php) - A great article about different challenges and factors involved in designing a custom cabinet for a game. Includes and interview with Joon. Made by [Alex Johansson](https://alexvscoding.itch.io/).
+- [Installation Required - Why you should build an arcade cabinet for your game.](https://gamasutra.com/blogs/AlexJohansson/20141230/233317/Installation_Required__Why_you_should_build_an_arcade_cabinet_for_your_game.php) - An article about different challenges and factors involved in designing a custom cabinet for a game. Includes and interview with Joon. Made by [Alex Johansson](https://alexvscoding.itch.io/).
 - [Make Your Own Slot Machine](http://www.underthepier.com/01_howtocoinmech.htm) - A guide on making coin-operated machines. Made by [Tim Hunkin](http://www.underthepier.com/index.htm).
-- [Queering Control(lers) Through Reflective Game Design Practices](http://gamestudies.org/1803/articles/marcotte) - A great article on how controls are key to changing the hegemonic status quo of mainstream game design, from a queer perspective together with critical design. Made by [Jess Marcotte](http://jeka.games).
-- [Videogames That Go Squish](http://v21.io/blog/universal-principles-of-digital-physical-game-design/) - A very insightful article about designing physical-digital games. Made by [george buckenham](http://v21.io/).
+- [Queering Control(lers) Through Reflective Game Design Practices](http://gamestudies.org/1803/articles/marcotte) - An article on how controls are key to changing the hegemonic status quo of mainstream game design from a queer game studies perspective together with critical design. Made by [Jess Marcotte](http://jeka.games).
+- [Videogames That Go Squish](http://v21.io/blog/universal-principles-of-digital-physical-game-design/) - An article about designing physical-digital games. Made by [George Buckenham](http://v21.io/).
 
 ### Crafting
 
-- [Adaptive Design Learning Library](https://www.adaptivedesign.org/learning-library) - Didactic and very detailed guide for building with cardboard. Made by [Adaptive Design Association Inc.](https://www.adaptivedesign.org/). Price: Free (they accept donations to support their work on adaptive design).
-- [PVC Construction](https://www.instructables.com/id/PVC-101/) - Very practical guide about constructing things with PVC pipes: a lightweight and affordable material. Made by [trevormates](https://www.instructables.com/member/trevormates/). Price: Free. License: CC-BY-NC-SA.
-- [Recipes for conductive and non-conductive dough](https://squishycircuits.com/pages/dough-recipes) - You can use these to create soft surfaces and malleable circuits for your games. Made by [Squishy Circuits](https://squishycircuits.com/). Price: Free.
-- [Worbla](http://www.cosplaysupplies.com/store.php?p=WOBA1) - This is a thermoplastic used often for making costumes and cosplay props. It can be hand-molded when heated and is easy to prime and finish. Price: 29 USD for a small sheet.
-- [The Complete and Utter Beginner’s Guide to Worbla](https://www.worbla.com/?p=8020) - A guide on safety procedures and how to use Worbla. Made by Worbla.
+- [Adaptive Design Learning Library](https://www.adaptivedesign.org/learning-library) - A didactic and very detailed guide for building with cardboard. Made by [Adaptive Design Association Inc.](https://www.adaptivedesign.org/). Price: Free (they accept donations to support their work on adaptive design).
+- [PVC Construction](https://www.instructables.com/id/PVC-101/) - A practical guide about constructing things with PVC pipes: a lightweight and affordable material. Made by [trevormates](https://www.instructables.com/member/trevormates/). Price: Free. License: CC-BY-NC-SA.
+- [Recipes for conductive and non-conductive dough](https://squishycircuits.com/pages/dough-recipes) - DOugh for creating soft surfaces and malleable circuits for your games. Made by [Squishy Circuits](https://squishycircuits.com/). Price: Free.
+- [Worbla](http://www.cosplaysupplies.com/store.php?p=WOBA1) - A thermoplastic used often for making costumes and cosplay props. It can be hand-molded when heated and is easy to prime and finish. Made by [Worbla](https://www.worbla.com/). Price: 29 USD for a small sheet.
+- [The Complete and Utter Beginner’s Guide to Worbla](https://www.worbla.com/?p=8020) - A guide on safety procedures and how to use Worbla. Made by [Worbla](https://www.worbla.com/).
 
 ### Electronics
 
