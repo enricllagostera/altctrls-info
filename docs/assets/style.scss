@@ -48,7 +48,7 @@ a, a:link, a:hover {
 }
 
 footer {
-    border-top: #fb4771 1px solid;
+    border-top: #5f1b2b 1px solid;
     margin-top: 3rem;
 }
 
@@ -79,6 +79,8 @@ ul {
     border-color: #ad6dea;
 }
 
+
+
 @media (max-width: 550px) {
     .intro-line {
         font-family: 'Fira Sans', sans-serif;
@@ -98,3 +100,30 @@ ul {
         text-align: center;
     }
 }
+
+.docking-nav {
+    display: block;
+    height: 2em;
+    background-color: #ad6dea;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+    padding: .5em .5em .3em .5em;
+    /* width: 30%; */
+    text-align: center;
+
+    a, a:link, a:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+

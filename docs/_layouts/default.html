@@ -15,6 +15,24 @@
 
   {% include footer.html %}
 
+  <script>
+    myID = document.getElementById("top-nav");
+
+    var myScrollFunc = function ()
+    {
+      var y = window.scrollY;
+      if (y >= 1200)
+      {
+        myID.className = "docking-nav show"
+      } else
+      {
+        myID.className = "docking-nav hide"
+      }
+    };
+
+    window.addEventListener("scroll", myScrollFunc);
+  </script>
+
 </body>
 
 </html>
