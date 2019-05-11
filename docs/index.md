@@ -40,11 +40,12 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 ### Electronics
 
-- [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) - a versatile board that has a good balance between number of connections, simplicity, and tons of libraries, examples, and compatible platforms. Made by Arduino. Price: 22 USD. License: open-source hardware.
+- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - A website with texbooks, video lectures and a variety of materials about electronics. Made by EETech. Price: Free.
+- [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) - A versatile board that has a good balance between number of connections, simplicity, and tons of libraries, examples, and compatible platforms. Made by Arduino. Price: 22 USD. License: open-source hardware.
 - Conductive thread resources.
-- [Makey Makey](https://makeymakey.com/) - a board that turns low-current connections into keypresses and mouse events, without changing any software. Great for turning bananas into keyboards! Made by JoyLabz. Price: 50 USD. License: Proprietary.
-- [Micro:bit](https://microbit.org/) - a small board with built-in accelerometers, compass and radio. It features a block-based visual programming system and can connect via USB and Bluetooth. Made by BBC. Price: 27 CAD.
-- Teensy.
+- [Makey Makey](https://makeymakey.com/) - A board that turns low-current connections into keypresses and mouse events, without changing any software. Great for turning bananas into keyboards! Made by JoyLabz. Price: 50 USD. License: Proprietary.
+- [Micro:bit](https://microbit.org/) - A small board with built-in accelerometers, compass and radio. It features a block-based visual programming system and can connect via USB and Bluetooth. Made by BBC. Price: 27 CAD.
+- [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) - A versatile board that can simulate HID (human-interaction devices) and is compatible with many libraries. It features lots of pins in a small size. Made by PJRC. Price: 20 USD.
 
 ### Game Engine Plugins and Tools
 
