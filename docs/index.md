@@ -33,7 +33,7 @@ Feel free to browse for topics that pick your interest, but you can also search 
 ### Crafting
 
 - [Adaptive Design Learning Library](https://www.adaptivedesign.org/learning-library) - Thorough, didactic, and detailed guide for building user-specific adaptations out of cardboard. It is a great resource for building sturdy and appoachable objects. Made by Adaptive Design Association Inc. Price: Free. 
-- [PVC construction](https://www.instructables.com/id/PVC-101/) - Very practical guide about constructing things with PVC pipes: a lightweight and affordable material. Made by trevormates.
+- [PVC Construction](https://www.instructables.com/id/PVC-101/) - Very practical guide about constructing things with PVC pipes: a lightweight and affordable material. Made by trevormates.
 - [Recipes for conductive and non-conductive dough](https://squishycircuits.com/pages/dough-recipes) - You can use these to create soft surfaces and malleable circuits for your games. Made by Squishy Circuits. Price: Free.
 - [Worbla](http://www.cosplaysupplies.com/store.php?p=WOBA1) - This is a thermoplastic used often for making costumes and cosplay props. It can be hand-molded when heated and is easy to prime and finish. Price: 29 USD for a small sheet.
 - [The Complete and Utter Beginner’s Guide to Worbla](https://www.worbla.com/?p=8020) - A guide on safety procedures and how to use Worbla. Made by Worbla.
