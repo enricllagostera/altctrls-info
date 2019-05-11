@@ -37,7 +37,12 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 ### Articles
 
-- [Burn The Keyboard workshop](https://joon.be/portfolio/burn-the-keyboard/) - A workshop on quickly creating three custom controllers out of affordable and easily available materials. Made by [Jonatan Van Hove](https://joon.be/).
+- [Burn The Keyboard workshop](https://joon.be/portfolio/burn-the-keyboard/) - A workshop on quickly creating three custom controllers out of affordable and easily available materials. Made by [Joon](https://joon.be/).
+- [Installation Required - The incredible potential of custom controllers.](https://gamejolt.com/@AlexVsCoding/post/installation-required-the-incredible-potential-of-custom-controll-neswxgaq) - An article about the creative process and possibilities of making alternative game controllers. Made by [Alex Johansson](https://alexvscoding.itch.io/).
+- [Installation Required - Why you should build an arcade cabinet for your game.](https://gamasutra.com/blogs/AlexJohansson/20141230/233317/Installation_Required__Why_you_should_build_an_arcade_cabinet_for_your_game.php) - A great article about different challenges and factors involved in designing a custom cabinet for a game. Includes and interview with Joon. Made by [Alex Johansson](https://alexvscoding.itch.io/).
+- [Make Your Own Slot Machine](http://www.underthepier.com/01_howtocoinmech.htm) - A guide on making coin-operated machines. Made by [Tim Hunkin](http://www.underthepier.com/index.htm).
+- [Queering Control(lers) Through Reflective Game Design Practices](http://gamestudies.org/1803/articles/marcotte) - A great article on how controls are key to changing the hegemonic status quo of mainstream game design, from a queer perspective together with critical design. Made by [Jess Marcotte](http://jeka.games).
+- [Videogames That Go Squish](http://v21.io/blog/universal-principles-of-digital-physical-game-design/) - A very insightful article about designing physical-digital games. Made by [george buckenham](http://v21.io/).
 
 ### Crafting
 
@@ -51,10 +56,12 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) - A website with texbooks, video lectures and a variety of materials about electronics. Made by EETech. Price: Free.
 - [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) - A versatile board that has a good balance between number of connections, simplicity, and tons of libraries, examples, and compatible platforms. Made by [Arduino](https://www.arduino.cc/). Price: 22 USD. License: open-source hardware.
+- [BlueHID](http://www.u-hid.com/home/overview_bboard.php) - A wireless (Bluetooth) board for creating HID (human-interaction devices, like mouse, joysticks and keyboards). Made by [Ultimarc](http://www.ultimarc.com/) Price: 43 USD.
 - [Makey Makey](https://makeymakey.com/) - A board that turns low-current connections into keypresses and mouse events, without changing any software. Great for turning bananas into keyboards! Made by [JoyLabz](https://joylabz.com/). Price: 50 USD.
 - [Micro:bit](https://microbit.org/) - A small board with built-in accelerometers, compass and radio. It features a block-based visual programming system and can connect via USB and Bluetooth. Made by BBC. Price: 27 CAD.
 - [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) - A versatile board that can simulate HID (human-interaction devices) and is compatible with many libraries. It features lots of pins in a small size. Made by [PJRC](https://www.pjrc.com/). Price: 20 USD.
 - [Touch Board](https://www.bareconductive.com/shop/touch-board/) - A board for capacitive touch (create circuits with no grounding) and distance sensing, compatible with Arduino. Made by [BareConductive](https://www.bareconductive.com/). Price: 53 GBP.
+- [U-HID](http://www.u-hid.com/home/overview_board.php) - A board for creating HID (human-interaction devices, like mouse, joysticks and keyboards), with software for assigning each pin without programming firmware. Made by [Ultimarc](http://www.ultimarc.com/) Price: 69 USD.
 
 ### Game Engine Plugins and Tools
 
