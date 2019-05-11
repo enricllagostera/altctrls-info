@@ -106,8 +106,9 @@ ul {
     height: 2em;
     background-color: #ad6dea;
     position: fixed;
-    top: 0;
-    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     z-index: 9999;
     padding: .5em .5em .3em .5em;
     /* width: 30%; */
