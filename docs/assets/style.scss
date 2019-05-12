@@ -59,13 +59,10 @@ p.intro-logo {
     margin-bottom: 0em;
 }
 
-footer {
+footer.container {
     border-top: #ad6dea 0rem solid;
-    margin-top: 3rem;
-}
-
-footer div {
-    padding-top: 3rem;
+    padding: 3rem 0 5rem 0;
+    text-align: center;
 }
 
 a.footer-logo {
@@ -83,25 +80,26 @@ a.footer-logo {
 }
 
 li {
-    list-style-type: none;
+    list-style-type: square;
     list-style-position: outside;
     margin-bottom: .5em;
     margin-left: 0em;
+
 }
 
-li:before {
+/* li:before {
     color: #ad6dea;
-    content:"\2b9e";
+    content:"\2192";
     padding-right: .5em;
-}
+} */
 
-li {
-    text-indent: -1.25em;
-    padding-left: 1.25em;
-}
+/* li {
+    text-indent: -.5em;
+    padding-left: .5em;
+} */
 
 ul, ul ul {
-    margin-left: 0.25em;
+    margin-left: 1.25em;
 }
 
 .badges {
