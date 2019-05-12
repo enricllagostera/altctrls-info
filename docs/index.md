@@ -2,6 +2,9 @@
 layout: default
 ---
 
+![Logo]({{ "/assets/logo_crafting_v02.png" | prepend: site.baseurl }})
+{: .intro-logo}
+
 {{ site.description }}
 {: .intro-line}
 

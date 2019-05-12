@@ -45,15 +45,36 @@ a, a:link, a:hover {
     padding: 0 1em 0 1em;
     margin: 0 0 1em 0;
     text-transform: lowercase;
+    color: #ad6dea;
+}
+
+
+p.intro-logo {
+    img {
+        width: 70%;
+        max-width: 27rem;
+    }
+
+    text-align: center;
+    margin-bottom: 0em;
 }
 
 footer {
-    border-top: #5f1b2b 1px solid;
+    border-top: #ad6dea 0rem solid;
     margin-top: 3rem;
 }
 
 footer div {
     padding-top: 3rem;
+}
+
+a.footer-logo {
+    img {
+        width: 70%;
+        margin-top: -1em;
+    }
+    display: block;
+    text-align: center;
 }
 
 .example code {
