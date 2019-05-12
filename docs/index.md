@@ -114,7 +114,7 @@ To help with that, we ask contributors to provide each resource with a short des
 
 ## License
 
-This list and website are licensed under an [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license. The linked tools and resources have their own licenses and terms.
+This list and website are licensed under an [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license, with the exception of the logo image (under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/)). The linked resources each have their own licenses and terms.
 
 [![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
 
