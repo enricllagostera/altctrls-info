@@ -62,12 +62,25 @@ footer div {
 }
 
 li {
-    list-style-type: disc;
+    list-style-type: none;
     list-style-position: outside;
+    margin-bottom: .5em;
+    margin-left: 0em;
 }
 
-ul {
-    margin-left: 1.5em;
+li:before {
+    color: #ad6dea;
+    content:"\2b9e";
+    padding-right: .5em;
+}
+
+li {
+    text-indent: -1.25em;
+    padding-left: 1.25em;
+}
+
+ul, ul ul {
+    margin-left: 0.25em;
 }
 
 .badges {

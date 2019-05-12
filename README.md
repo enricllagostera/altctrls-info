@@ -1,4 +1,4 @@
-# Crafting Shaking Buttons
+# Crafting Shaking Buttons<!-- omit in toc -->
 
 > A list of resources for crafting alternative controllers, playful installations and physical-digital hybrids
 
@@ -8,26 +8,24 @@ Are you interested in [games that let us play differently](http://shakethatbutto
 
 If you'd like to join in curating this list, please check the [contributing section](#contributing). Suggestions, revisions, and ideas are always welcome!
 
-### How to Use
+### How to Use<!-- omit in toc -->
 
 Feel free to browse for topics that pick your interest, but you can also search the page (`Ctrl-F` or `Cmd-F` or `F3`) for a keyword or phrase (for example, "cardboard", "OSC", "mouse", "Arduino").
 
 ## Contents <!-- omit in toc -->
 
-- [Crafting Shaking Buttons](#crafting-shaking-buttons)
-    - [How to Use](#how-to-use)
-  - [Resources](#resources)
-    - [Articles](#articles)
-    - [Crafting](#crafting)
-    - [Electronics](#electronics)
-    - [Game Engine Plugins and Tools](#game-engine-plugins-and-tools)
-    - [Software](#software)
-    - [Libraries](#libraries)
-    - [Open Projects and 'Making Of's](#open-projects-and-making-ofs)
-  - [Contributing](#contributing)
-    - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
-    - [Contributors](#contributors)
+- [Resources](#resources)
+  - [Articles](#articles)
+  - [Crafting](#crafting)
+  - [Electronics](#electronics)
+  - [Game Engine Plugins and Tools](#game-engine-plugins-and-tools)
+  - [Software](#software)
+  - [Libraries](#libraries)
+  - [Open Projects and 'Making Of's](#open-projects-and-making-ofs)
+- [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+- [License](#license)
+  - [Contributors](#contributors)
 
 ---
 

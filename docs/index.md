@@ -8,13 +8,13 @@ layout: default
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Issues](https://img.shields.io/github/issues/enricllagostera/awesome-altctrls.svg)](https://github.com/enricllagostera/awesome-altctrls/issues) [![GitHub Stars](https://img.shields.io/github/stars/enricllagostera/awesome-altctrls.svg?style=social&label=Star)](https://github.com/enricllagostera/awesome-altctrls)
 {: .badges}
 
-Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some extra information to help you start to make your own thing? This community-curated list of resources is here to support you: it is focused on tools, materials, and things that you can use to make alternative controllers.
+Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some extra information to help you start to make your own thing? This community-curated list of resources is here to support you: it is focused on tools, materials, and things that you can use to craft alternative controllers.
 
-If you'd like to participate in making this list, please check the [contributing section](#contributing). Suggestions, revisions, and ideas are always welcome!
+If you'd like to join in curating this list, please check the [contributing section](#contributing). Suggestions, revisions, and ideas are always welcome!
 
-### How to Use
+### How to Use<!-- omit in toc -->
 
-Feel free to browse for topics that pick your interest, but you can also search the page (`Ctrl-F` or `Cmd-F` or `F3`) for a keyword or phrase (for example, "cardboard", "OSC", "mouse", "Arduino").
+Feel free to browse for topics that pick your interest! You can also search the page (`Ctrl-F` or `Cmd-F` or `F3`) for a keyword or phrase (for example, "cardboard", "OSC", "mouse", "Arduino").
 
 ## Contents<!-- omit in toc -->
 
@@ -30,6 +30,7 @@ Feel free to browse for topics that pick your interest, but you can also search 
   - [Code of Conduct](#code-of-conduct)
 - [License](#license)
   - [Contributors](#contributors)
+{:.toc}
 
 ---
 
@@ -96,9 +97,9 @@ Sometimes it can be helpful to access and explore the source code, diagrams, doc
 
 ## Contributing
 
-You can use the link below to propose new resources, help us fix errors in the list, suggest, comment or ask things.
+You can use the links below to propose new resources, help us fix errors in the list, suggest, comment or ask things. Contributions being reviewed and ongoing discussions can be [accessed here](https://github.com/enricllagostera/awesome-altctrls/issues).
 
-[Click here to contribute](https://github.com/enricllagostera/awesome-altctrls/issues/new/choose){: .button .button-primary .contribution-btn}
+[Contribute via GitHub (login required)](https://github.com/enricllagostera/awesome-altctrls/issues/new/choose){: .button .button-primary .contribution-btn} [Contribute via form (no login required)](https://forms.gle/C2r2d8EJFhc7SFAf8){: .button .button-primary .contribution-btn}
 
 Our goal is to slowly grow this list so it can help more folks. You are welcome to contribute with tools and resources! We aim to be informative and support people in diverse situations, and we prioritize affordable and approachable resources.
 
@@ -116,7 +117,7 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 
 ### Contributors
 
-[awesome-altctrls!](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
+[Crafting Shaking Buttons](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, credited below in alphabetical order. [You can email the repo maintainer here](mailto:enric.llagostera@gmail.com).
 
-- [Enric Llagostera](https://enric.llagostera.com.br/) (repo maintainer).
+[Enric Llagostera](https://enric.llagostera.com.br/) (repo maintainer).
 {:.contributors-list}

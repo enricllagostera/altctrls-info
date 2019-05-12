@@ -1,21 +1,12 @@
 <footer class="container">
 
   <div class="one-half column">
-    {% if site.author %}
-    {{ site.author | markdownify }}
-    {% endif %}
-    <p><a href="mailto:{{ site.email }}">Email</a> the repo maintainer.</p>
-    {% if site.privacy_policy_url %}
-    <li>
-      <a href="{{ site.privacy_policy_url }}">Privacy Policy</a>
-    </li>
-    {% endif %}
-    </ul>
+    logo
   </div>
 
   <div class="one-half column">
     <p><a href='{{ site.baseurl }}'>{{ site.title | escape }}</a></p>
     <p>{{ site.description | escape }}.</p>
-    <p><a href='#top'>Jump to the top</a></p>
+    <p><a href="mailto:{{ site.email }}">Email</a> the repo maintainer.</p>
   </div>
 </footer>
