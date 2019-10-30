@@ -1,4 +1,4 @@
-# Crafting Shaking Buttons<!-- omit in toc -->
+# Awesome Alt Ctrls<!-- omit in toc -->
 
 > A list of resources for crafting alternative controllers, playful installations and physical-digital hybrids
 
@@ -50,9 +50,10 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 ### Electronics
 
-- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - A website with texbooks, video lectures and a variety of materials about electronics. Made by EETech. Price: Free.
+- [All About Circuits](https://www.allaboutcircuits.com/textbook/) - A website with textbooks, video lectures and a variety of materials about electronics. Made by EETech. Price: Free.
 - [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) - A versatile board that has a good balance between number of connections, simplicity, and tons of libraries, examples, and compatible platforms. Made by [Arduino](https://www.arduino.cc/). Price: 22 USD. License: open-source hardware.
 - [BlueHID](http://www.u-hid.com/home/overview_bboard.php) - A wireless (Bluetooth) board for creating HID (human-interaction devices, like mouse, joysticks and keyboards). Made by [Ultimarc](http://www.ultimarc.com/) Price: 43 USD.
+- [Itsy Bitsy 32u4](https://learn.adafruit.com/introducting-itsy-bitsy-32u4) - A small Arduino-compatible board that can simulate joysticks, mouse, keyboard, MIDI and other input devices. It is an affordable option for making controllers for games when you cannot change the game's original programming. Made by [Adafruit](https://www.adafruit.com/). Price: 10 USD.
 - [Makey Makey](https://makeymakey.com/) - A board that turns low-current connections into keypresses and mouse events, without changing any software. Great for turning bananas into keyboards! Made by [JoyLabz](https://joylabz.com/). Price: 50 USD.
 - [Micro:bit](https://microbit.org/) - A small board with built-in accelerometers, compass and radio. It features a block-based visual programming system and can connect via USB and Bluetooth. Made by BBC. Price: 27 CAD.
 - [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) - A versatile board that can simulate HID (human-interaction devices) and is compatible with many libraries. It features lots of pins in a small size. Made by [PJRC](https://www.pjrc.com/). Price: 20 USD.
@@ -63,11 +64,12 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 If you are making a game using some specific game engines, you might be able to use some of the resources below to connect your alternative controller to the game engine software.
 
-- [Ardity](https://ardity.dwilches.com/) : An easy-to-use and setup serial port plugin for Unity. Made by [dwilches](https://github.com/dwilches). Price: Free. License: [Creative Commons Attribution](https://creativecommons.org/licenses/by/2.0/).
+- [Android Sensors for Unity](https://github.com/mmeiburg/unityAndroidSensors) - A plugin for using Android sensors with Unity (versions before 2019.1) beyond the ones exposed by the engine. The new Unity's input system makes this much easier on versions after 2019.1. Made by[mmeiburg](https://github.com/mmeiburg). Price: Free. License: MIT.
+- [Ardity](https://ardity.dwilches.com/) - An easy-to-use and setup serial port plugin for Unity. Made by [dwilches](https://github.com/dwilches). Price: Free. License: [Creative Commons Attribution](https://creativecommons.org/licenses/by/2.0/).
 - [GDSerialAsset](https://github.com/Superwaitsum/GDSerialAsset) - A plugin for sending and receiving serial port messages in the Godot game engine. Made by [Supwerwaitsum](https://github.com/Superwaitsum). Price: Free. License: MIT.
 - [How to Integrate Arduino with Unity](https://www.alanzucconi.com/2015/10/07/how-to-integrate-arduino-with-unity/) - A well-written and detailed tutorial that includes easy to adapt examples. Made by [Alan Zucconi](https://www.alanzucconi.com/). Price: Free.
-- MidiJack : A small library for receiving and sending MIDI messages in Unity.
-- OscJack : A small library for receiving and sending OSC messages in Unity.
+- [MidiJack](https://github.com/keijiro/MidiJack) - A small library for receiving and sending MIDI messages in Unity. Made by [keijiro](https://github.com/keijiro). Price: Free. License: MIT.
+- [OscJack](https://github.com/keijiro/OscJack) - A small library for receiving and sending OSC messages in Unity. Made by [keijiro](https://github.com/keijiro). Price: Free. License: MIT.
 
 ### Software
 
@@ -80,7 +82,7 @@ Here you can find general use applications and standalone software that can be u
 
 These packages and libraries are not restricted to a specific game engine, programming language or development environment.
 
-- [Johnny-Five](http://johnny-five.io/) - a JavaScript library for accessing boards and sensors. Made by [Bocoup](http://bocoup.com/) and contributors. Price: Free. License: MIT.
+- [Johnny-Five](http://johnny-five.io/) - A JavaScript library for accessing boards and sensors. Made by [Bocoup](http://bocoup.com/) and contributors. Price: Free. License: MIT.
 
 ### Open Projects and 'Making Of's
 
@@ -102,7 +104,7 @@ To help with that, we ask contributors to provide each resource with a short des
 
 ### Code of Conduct
 
-- Code of Conduct goes here.
+Please, check our [Code of Conduct](https://github.com/enricllagostera/awesome-altctrls/blob/master/CODE_OF_CONDUCT.md) before posting, to know more about how we aim to build this project together as a welcoming environment.
 
 ## License
 
@@ -112,6 +114,6 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 
 ### Contributors
 
-[awesome-altctrls!](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
+[awesome-altctrls](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
 
-- [Enric Llagostera](https://enric.llagostera.com.br/) (repo maintainer).
+- [Enric Llagostera](https://enric.llagostera.com.br/).

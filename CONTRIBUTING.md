@@ -10,4 +10,4 @@ To help with that, we ask contributors to provide each resource with a short des
 
 ### Code of Conduct
 
-- Code of Conduct goes here.
+Please, check our [Code of Conduct](CODE_OF_CONDUCT.md) before posting, to know more about how we aim to build this project together as a welcoming environment.
