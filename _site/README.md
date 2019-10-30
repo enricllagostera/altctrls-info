@@ -1,15 +1,8 @@
----
-layout: default
----
+# Awesome Alt Ctrls<!-- omit in toc -->
 
-![Logo]({{ "/assets/logo_crafting_v02.png" | prepend: site.baseurl }})
-{: .intro-logo}
-
-{{ site.description }}
-{: .intro-line}
+> A list of resources for crafting alternative controllers, playful installations and physical-digital hybrids
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Issues](https://img.shields.io/github/issues/enricllagostera/awesome-altctrls.svg)](https://github.com/enricllagostera/awesome-altctrls/issues) [![GitHub Stars](https://img.shields.io/github/stars/enricllagostera/awesome-altctrls.svg?style=social&label=Star)](https://github.com/enricllagostera/awesome-altctrls)
-{: .badges}
 
 Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some extra information to help you start to make your own thing? This community-curated list of resources is here to support you: it is focused on tools, materials, and things that you can use to craft alternative controllers.
 
@@ -17,9 +10,9 @@ If you'd like to join in curating this list, please check the [contributing sect
 
 ### How to Use<!-- omit in toc -->
 
-Feel free to browse for topics that pick your interest! You can also search the page (`Ctrl-F` or `Cmd-F` or `F3`) for a keyword or phrase (for example, "cardboard", "OSC", "mouse", "Arduino").
+Feel free to browse for topics that pick your interest, but you can also search the page (`Ctrl-F` or `Cmd-F` or `F3`) for a keyword or phrase (for example, "cardboard", "OSC", "mouse", "Arduino").
 
-## Contents<!-- omit in toc -->
+## Contents <!-- omit in toc -->
 
 - [Resources](#resources)
   - [Articles](#articles)
@@ -33,13 +26,10 @@ Feel free to browse for topics that pick your interest! You can also search the 
   - [Code of Conduct](#code-of-conduct)
 - [License](#license)
   - [Contributors](#contributors)
-{:.toc}
 
 ---
 
 ## Resources
-
-_Last updated on 2019-10-30._
 
 ### Articles
 
@@ -105,9 +95,9 @@ Sometimes it can be helpful to access and explore the source code, diagrams, doc
 
 ## Contributing
 
-You can use the links below to propose new resources, help us fix errors in the list, suggest, comment or ask things. Contributions being reviewed and ongoing discussions can be [accessed here](https://github.com/enricllagostera/awesome-altctrls/issues).
+You can use the link below to propose new resources, help us fix errors in the list, suggest, comment or ask things.
 
-[Contribute via GitHub (login required)](https://github.com/enricllagostera/awesome-altctrls/issues/new/choose){: .button .button-primary .contribution-btn} [Contribute via form (no login required)](https://forms.gle/C2r2d8EJFhc7SFAf8){: .button .button-primary .contribution-btn}
+[Click here to contribute](https://github.com/enricllagostera/awesome-altctrls/issues/new/choose)
 
 Our goal is to slowly grow this list so it can help more folks. You are welcome to contribute with tools and resources! We aim to be informative and support people in diverse situations, and we prioritize affordable and approachable resources.
 
@@ -119,12 +109,12 @@ Please, check our [Code of Conduct](https://github.com/enricllagostera/awesome-a
 
 ## License
 
-This list and website are licensed under an [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license, with the exception of the logo image (under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/)). The linked resources each have their own licenses and terms.
+This list and website are licensed under an [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license. The linked tools and resources have their own licenses and terms.
 
 [![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Contributors
 
-[Awesome Alt Ctrls](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, credited below in alphabetical order. [You can email the repo maintainer here](mailto:enric.llagostera@gmail.com).
+[awesome-altctrls](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
 
 - [Enric Llagostera](https://enric.llagostera.com.br/).
