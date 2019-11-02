@@ -31,6 +31,8 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 ## Resources
 
+_Last updated on: 2019-11-02._
+
 ### Articles
 
 - [Burn The Keyboard workshop](https://joon.be/portfolio/burn-the-keyboard/) - A workshop on quickly creating three custom controllers out of affordable and easily available materials. Made by [Joon](https://joon.be/). Price: Free.
@@ -77,12 +79,14 @@ Here you can find general use applications and standalone software that can be u
 
 - [JoyToKey](https://joytokey.net/en/) - A desktop software that converts inputs from gamepads and joysticks to keyboard and mouse. Made by [JTKSoft](https://jtksoft.net/ja/). License: Shareware. Price: Free trial and 7 USD for continued use.
 - [Sensors2OSC](https://sensors2.org/osc/) - An Android application that sends data from the phones' sensors to any device via WiFi and OSC messages. Made by [SensorApps](https://github.com/SensorApps). License: [Available here](https://sensors2.org/osc/#license). Price: Free.
+- [HTML5 Gamepad Tester](https://html5gamepad.com/) - A web page that displays gamepad information in compatible browsers. Helpful when creating custom gamepads or debugging. . Made by [Ben Wiklund](https://github.com/bwiklund). Price: Free.
 
 ### Libraries
 
-These packages and libraries are not restricted to a specific game engine, programming language or development environment.
+These are packages, libraries, and APIs for a variety of software creation environments.
 
 - [Johnny-Five](http://johnny-five.io/) - A JavaScript library for accessing boards and sensors. Made by [Bocoup and contributors](http://bocoup.com/). License: MIT. Price: Free.
+- [Web Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API) - A detailed explanation with examples on  how to use gamepads in browsers using Javascript. Made by [Mozilla and MDN contributors](https://wiki.developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API$history). License: [Available here](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses). Price: Free.
 
 ### Open Projects and 'Making Of's
 
