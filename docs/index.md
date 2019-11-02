@@ -96,6 +96,7 @@ These are packages, libraries, and APIs for a variety of software creation envir
 - [Johnny-Five](http://johnny-five.io/) - A JavaScript library for accessing boards and sensors. Made by [Bocoup and contributors](http://bocoup.com/). License: MIT. Price: Free.
 - [Web Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API) - A detailed explanation with examples on  how to use gamepads in browsers using Javascript. Made by [Mozilla and MDN contributors](https://wiki.developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API$history). License: [Available here](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses). Price: Free.
 
+
 ### Open Projects and 'Making Of's
 
 Sometimes it can be helpful to access and explore the source code, diagrams, documents, and processes of different projects. This topic is a list of _making of_ articles, as well as free and open-source alternative controllers.
