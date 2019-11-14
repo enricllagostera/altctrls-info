@@ -31,11 +31,12 @@ Feel free to browse for topics that pick your interest, but you can also search 
 
 ## Resources
 
-_Last updated on: 2019-11-02._
+_Last updated on 2019-11-14._
 
 ### Articles
 
 - [Burn The Keyboard workshop](https://joon.be/portfolio/burn-the-keyboard/) - A workshop on quickly creating three custom controllers out of affordable and easily available materials. Made by [Joon](https://joon.be/). Price: Free.
+- [Game Design Beyond Screens & Joysticks](https://www.gamasutra.com/blogs/TatianaVileladosSantos/20180517/315831/ALT_CTRL_Game_Design_Beyond_Screens__Joysticks__Introduction_15.php) - A blog about alternative controller games and playful installations design. Made by [Tatiana Vilela dos Santos](http://mechbird.fr). Price: Free.
 - [Installation Required - The incredible potential of custom controllers.](https://gamejolt.com/@AlexVsCoding/post/installation-required-the-incredible-potential-of-custom-controll-neswxgaq) - An article about the creative process and possibilities of making alternative game controllers. Made by [Alex Johansson](https://alexvscoding.itch.io/). Price: Free.
 - [Installation Required - Why you should build an arcade cabinet for your game.](https://gamasutra.com/blogs/AlexJohansson/20141230/233317/Installation_Required__Why_you_should_build_an_arcade_cabinet_for_your_game.php) - A great article about different challenges and factors involved in designing a custom cabinet for a game. Made by [Alex Johansson](https://alexvscoding.itch.io/). Price: Free.
 - [Make Your Own Slot Machine](http://www.underthepier.com/01_howtocoinmech.htm) - A guide on making coin-operated machines. Made by [Tim Hunkin](http://www.underthepier.com/index.htm). Price: Free.
@@ -77,6 +78,7 @@ If you are making a game using some specific game engines, you might be able to 
 
 Here you can find general use applications and standalone software that can be useful we making, testing or planning your alternative controller project.
 
+- [Enjoy2](https://github.com/fyhuang/enjoy2/) - A small OSX program to map controller inputs to keyboard and mouse events. Made by [Yifeng Huang](http://nongraphical.com/). License: MIT. Price: Free.
 - [JoyToKey](https://joytokey.net/en/) - A desktop software that converts inputs from gamepads and joysticks to keyboard and mouse. Made by [JTKSoft](https://jtksoft.net/ja/). License: Shareware. Price: Free trial and 7 USD for continued use.
 - [Sensors2OSC](https://sensors2.org/osc/) - An Android application that sends data from the phones' sensors to any device via WiFi and OSC messages. Made by [SensorApps](https://github.com/SensorApps). License: [Available here](https://sensors2.org/osc/#license). Price: Free.
 - [HTML5 Gamepad Tester](https://html5gamepad.com/) - A web page that displays gamepad information in compatible browsers. Helpful when creating custom gamepads or debugging. . Made by [Ben Wiklund](https://github.com/bwiklund). Price: Free.
@@ -86,14 +88,13 @@ Here you can find general use applications and standalone software that can be u
 These are packages, libraries, and APIs for a variety of software creation environments.
 
 - [Johnny-Five](http://johnny-five.io/) - A JavaScript library for accessing boards and sensors. Made by [Bocoup and contributors](http://bocoup.com/). License: MIT. Price: Free.
-- [Web Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API) - A detailed explanation with examples on  how to use gamepads in browsers using Javascript. Made by [Mozilla and MDN contributors](https://wiki.developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API$history). License: [Available here](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses). Price: Free.
-
+- [Web Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API) - A detailed explanation with examples on how to use gamepads in browsers using Javascript. Made by [Mozilla and MDN contributors](https://wiki.developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API$history). License: [Available here](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses). Price: Free.
 
 ### Open Projects and 'Making Of's
 
 Sometimes it can be helpful to access and explore the source code, diagrams, documents, and processes of different projects. This topic is a list of _making of_ articles, as well as free and open-source alternative controllers.
 
-- [gambi_abo](https://enricllagostera.github.io/gambi_abo/) - A series of free do-it-yourself game controllers made of cardboard and mouse, keyboards and gamepads.. Made by [Enric Llagostera](https://enric.llagostera.com.br/). License:  CC-BY-SA. Price: Free.
+- [gambi_abo](https://enricllagostera.github.io/gambi_abo/) - A series of free do-it-yourself game controllers made of cardboard and mouse, keyboards and gamepads.. Made by [Enric Llagostera](https://enric.llagostera.com.br/). License: CC-BY-SA. Price: Free.
 - [Red Dirt](https://github.com/enricllagostera/RedDirt) - A narrative game using smartphone magnetic sensors, made in Unity, using [Sensing Gestures](https://github.com/enricllagostera/SensingGestures). Made by [Enric Llagostera](https://enric.llagostera.com.br/). License: LGPLv3. Price: Free.
 
 ---
@@ -123,3 +124,4 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 [awesome-altctrls](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
 
 - [Enric Llagostera](https://enric.llagostera.com.br/).
+- [Tatiana Vilela dos Santos](http://mechbird.fr).

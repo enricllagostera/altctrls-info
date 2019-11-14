@@ -33,7 +33,7 @@ Feel free to browse for topics that pick your interest! You can also search the 
   - [Code of Conduct](#code-of-conduct)
 - [License](#license)
   - [Contributors](#contributors)
-{:.toc}
+    {:.toc}
 
 ---
 
@@ -94,14 +94,13 @@ Here you can find general use applications and standalone software that can be u
 These are packages, libraries, and APIs for a variety of software creation environments.
 
 - [Johnny-Five](http://johnny-five.io/) - A JavaScript library for accessing boards and sensors. Made by [Bocoup and contributors](http://bocoup.com/). License: MIT. Price: Free.
-- [Web Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API) - A detailed explanation with examples on  how to use gamepads in browsers using Javascript. Made by [Mozilla and MDN contributors](https://wiki.developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API$history). License: [Available here](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses). Price: Free.
-
+- [Web Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API) - A detailed explanation with examples on how to use gamepads in browsers using Javascript. Made by [Mozilla and MDN contributors](https://wiki.developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API$history). License: [Available here](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses). Price: Free.
 
 ### Open Projects and 'Making Of's
 
 Sometimes it can be helpful to access and explore the source code, diagrams, documents, and processes of different projects. This topic is a list of _making of_ articles, as well as free and open-source alternative controllers.
 
-- [gambi_abo](https://enricllagostera.github.io/gambi_abo/) - A series of free do-it-yourself game controllers made of cardboard and mouse, keyboards and gamepads.. Made by [Enric Llagostera](https://enric.llagostera.com.br/). License:  CC-BY-SA. Price: Free.
+- [gambi_abo](https://enricllagostera.github.io/gambi_abo/) - A series of free do-it-yourself game controllers made of cardboard and mouse, keyboards and gamepads.. Made by [Enric Llagostera](https://enric.llagostera.com.br/). License: CC-BY-SA. Price: Free.
 - [Red Dirt](https://github.com/enricllagostera/RedDirt) - A narrative game using smartphone magnetic sensors, made in Unity, using [Sensing Gestures](https://github.com/enricllagostera/SensingGestures). Made by [Enric Llagostera](https://enric.llagostera.com.br/). License: LGPLv3. Price: Free.
 
 ---
@@ -131,3 +130,4 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 [Awesome Alt Ctrls](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, credited below in alphabetical order. [You can email the repo maintainer here](mailto:enric.llagostera@gmail.com).
 
 - [Enric Llagostera](https://enric.llagostera.com.br/).
+- [Tatiana Vilela dos Santos](http://mechbird.fr).
