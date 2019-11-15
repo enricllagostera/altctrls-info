@@ -133,4 +133,5 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 [Awesome Alt Ctrls](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, credited below in alphabetical order. [You can email the repo maintainer here](mailto:enric.llagostera@gmail.com).
 
 - [Enric Llagostera](https://enric.llagostera.com.br/).
+- [Shake That Button](http://shakethatbutton.com/).
 - [Tatiana Vilela dos Santos](http://mechbird.fr).
