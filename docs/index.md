@@ -39,7 +39,7 @@ Feel free to browse for topics that pick your interest! You can also search the 
 
 ## Resources
 
-_Last updated on 2019-11-14._
+_Last updated on 2019-11-15._
 
 ### Articles
 
@@ -90,6 +90,7 @@ Here you can find general use applications and standalone software that can be u
 - [JoyToKey](https://joytokey.net/en/) - A desktop software that converts inputs from gamepads and joysticks to keyboard and mouse. Made by [JTKSoft](https://jtksoft.net/ja/). License: Shareware. Price: Free trial and 7 USD for continued use.
 - [Sensors2OSC](https://sensors2.org/osc/) - An Android application that sends data from the phones' sensors to any device via WiFi and OSC messages. Made by [SensorApps](https://github.com/SensorApps). License: [Available here](https://sensors2.org/osc/#license). Price: Free.
 - [HTML5 Gamepad Tester](https://html5gamepad.com/) - A web page that displays gamepad information in compatible browsers. Helpful when creating custom gamepads or debugging. . Made by [Ben Wiklund](https://github.com/bwiklund). Price: Free.
+- [Xbox 360 Controller Emulator](https://www.x360ce.com/) - A software that emulates a XBox 360 controller on Windows, letting other devices be usable in games that only support that controller. Made by [TocaEdit](https://github.com/x360ce/x360ce). Price: Free.
 
 ### Libraries
 
