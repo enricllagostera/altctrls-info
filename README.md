@@ -1,4 +1,4 @@
-# Awesome Alt Ctrls<!-- omit in toc -->
+# altctrls.info<!-- omit in toc -->
 
 > A list of resources for crafting alternative controllers, playful installations and physical-digital hybrids
 
@@ -122,7 +122,7 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 
 ### Contributors
 
-[awesome-altctrls](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
+[altctrls.info](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
 
 - [Enric Llagostera](https://enric.llagostera.com.br/).
 - [Shake That Button](http://shakethatbutton.com/).
