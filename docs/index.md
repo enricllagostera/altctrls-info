@@ -126,8 +126,6 @@ Please, check our [Code of Conduct](https://github.com/enricllagostera/awesome-a
 
 This list and website are licensed under an [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license, with the exception of the logo image (under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/)). The linked resources each have their own licenses and terms.
 
-[![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
-
 ### Contributors
 
 [altctrls.info](https://altctrls.info/) is created by a community of contributors, credited below in alphabetical order. [You can email the repo maintainer here](mailto:enric.llagostera@gmail.com).
