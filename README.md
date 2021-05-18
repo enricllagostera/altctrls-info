@@ -2,7 +2,7 @@
 
 > A list of resources for crafting alternative controllers, playful installations and physical-digital hybrids
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Issues](https://img.shields.io/github/issues/enricllagostera/awesome-altctrls.svg)](https://github.com/enricllagostera/awesome-altctrls/issues) [![GitHub Stars](https://img.shields.io/github/stars/enricllagostera/awesome-altctrls.svg?style=social&label=Star)](https://github.com/enricllagostera/awesome-altctrls)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/enricllagostera/awesome-altctrls.svg?style=social&label=Star)](https://github.com/enricllagostera/awesome-altctrls)
 
 Are you interested in [games that let us play differently](http://shakethatbutton.com/about-alternative-controllers/)? Have you found some intriguing project on [Shake That Button](http://shakethatbutton.com/) and would like to find some extra information to help you start to make your own thing? This community-curated list of resources is here to support you: it is focused on tools, materials, and things that you can use to craft alternative controllers.
 
