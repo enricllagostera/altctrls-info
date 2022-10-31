@@ -33,7 +33,8 @@ Feel free to browse for topics that pick your interest! You can also search the 
   - [Code of Conduct](#code-of-conduct)
 - [License](#license)
   - [Contributors](#contributors)
-    {:.toc}
+- [Acknowledgement](#acknowledgement)
+  {:.toc}
 
 ---
 
@@ -133,3 +134,9 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 - [Enric Llagostera](https://enric.llagostera.com.br/).
 - [Shake That Button](https://shakethatbutton.com/).
 - [Tatiana Vilela dos Santos](https://mechbird.fr).
+
+## Acknowledgement
+
+![Logo FRQSC]({{ "/assets/logo-frqsc-couleur-300x136.png" | prepend: site.baseurl }})
+
+Enric Granzotto Llagostera’s work on this project is partially funded by the Fonds de recherche du Québec – Société et culture (FRQSC), as part of the Doctoral Research Scholarship 2020-B2Z-276952.
