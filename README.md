@@ -122,7 +122,7 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 
 [altctrls.info](https://enricllagostera.github.io/awesome-altctrls/) is created by a community of contributors, listed below in alphabetical order:
 
-- [Enric Llagostera](https://enric.llagostera.com.br/).
+- [Enric Granzotto Llagostera](https://enric.llagostera.com.br/).
 - [Shake That Button](https://shakethatbutton.com/).
 - [Tatiana Vilela dos Santos](https://mechbird.fr).
 
