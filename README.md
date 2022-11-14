@@ -37,7 +37,7 @@ _Last updated on 2022-11-14._
 
 Some tools are a bit of an amalgam, and cannot really fit into some of the other categories, as they integrate both crafting, software and making-ofs.
 
-- [Tinycade](https://tinycade.github.io/tinycade-homepage/) - A tiny arcade for alternative controller games, and the tools to make them, using only a smartphone.. Made by [Peter Gyory, Clement Zheng, Dylan Turner, Perry Owens, Ellen Do, Allison Palmer, Rhys Ruefort](https://tinycade.github.io/tinycade-homepage/). License: MIT. Price: Free.
+- [Tinycade](https://tinycade.github.io/tinycade-homepage/) - A tiny arcade for alternative controller games, and the tools to make them, using only a smartphone. Made by [Peter Gyory, Clement Zheng, Dylan Turner, Perry Owens, Ellen Do, Allison Palmer, Rhys Ruefort](https://tinycade.github.io/tinycade-homepage/). License: MIT. Price: Free.
 
 ### Articles
 
@@ -85,7 +85,7 @@ If you are making a game using some specific game engines, you might be able to 
 Here you can find general use applications and standalone software that can be useful we making, testing or planning your alternative controller project.
 
 - [Enjoy2](https://github.com/fyhuang/enjoy2/) - A small OSX program to map controller inputs to keyboard and mouse events. Made by [Yifeng Huang](http://nongraphical.com/). License: MIT. Price: Free.
-- [HTML5 Gamepad Tester](https://html5gamepad.com/) - A web page that displays gamepad information in compatible browsers. Helpful when creating custom gamepads or debugging. . Made by [Ben Wiklund](https://github.com/bwiklund). Price: Free.
+- [HTML5 Gamepad Tester](https://html5gamepad.com/) - A web page that displays gamepad information in compatible browsers. Helpful when creating custom gamepads or debugging. Made by [Ben Wiklund](https://github.com/bwiklund). Price: Free.
 - [JoyToKey](https://joytokey.net/en/) - A desktop software that converts inputs from gamepads and joysticks to keyboard and mouse. Made by [JTKSoft](https://jtksoft.net/ja/). License: Shareware. Price: Free trial and 7 USD for continued use.
 - [Sensors2OSC](https://sensors2.org/osc/) - An Android application that sends data from the phones' sensors to any device via WiFi and OSC messages. Made by [SensorApps](https://github.com/SensorApps). License: [Available here](https://sensors2.org/osc/#license). Price: Free.
 - [Xbox 360 Controller Emulator](https://www.x360ce.com/) - A software that emulates a XBox 360 controller on Windows, letting other devices be usable in games that only support that controller. Made by [TocaEdit](https://github.com/x360ce/x360ce). Price: Free.
@@ -96,8 +96,8 @@ These are packages, libraries, and APIs for a variety of software creation envir
 
 - [Johnny-Five](http://johnny-five.io/) - A JavaScript library for accessing boards and sensors. Made by [Bocoup and contributors](http://bocoup.com/). License: MIT. Price: Free.
 
-- [Beholder](https://github.com/project-beholder/beholder-detection) - A Javascript library for detecting markers and using them in tangible interfaces and alternative controllers.. Made by Peter Gyory and ATLAS Institute.
-- [p5.beholder](https://enricllagostera.github.io/p5.beholder) - A Javascript library for the p5.js system. This companion library facilitates the creation of quick tangible interfaces with marker-tracking and computer vision. . Made by [Enric Granzotto Llagostera](https://enric.llagostera.com.br/). License: MIT. Price: Free.
+- [Beholder](https://github.com/project-beholder/beholder-detection) - A JavaScript library for detecting markers and using them in tangible interfaces and alternative controllers. Made by Peter Gyory and ATLAS Institute.
+- [p5.beholder](https://enricllagostera.github.io/p5.beholder) - A JavaScript library for the p5.js system. This companion library facilitates the creation of quick tangible interfaces with marker-tracking and computer vision. Made by [Enric Granzotto Llagostera](https://enric.llagostera.com.br/). License: MIT. Price: Free.
 - [Web Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API) - A detailed explanation with examples on how to use gamepads in browsers using Javascript. Made by [Mozilla and MDN contributors](https://wiki.developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API$history). License: [Available here](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses). Price: Free.
 
 ### Open Projects and 'Making Of's
@@ -109,9 +109,9 @@ Sometimes it can be helpful to access and explore the source code, diagrams, doc
 
 ### Videos
 
-- [[alt.ctrl] An introduction to the world of altctrls (video series)](https://www.youtube.com/playlist?list=PLIBx3NWj3We5ZJdQpYSSdl-E2vuGTmyYZ) - A series of videos [alt.ctrl] is a series of videos about alternative controller game and playful installation making.. Made by [Tatiana Vilela dos Santos](http://mechbird.fr). Price: Free.
-- [The Secret Life of Components (video series)](https://www.youtube.com/playlist?list=PLtaR0lZhSyANYB0Xxb9OSp47pHuQmj3Ol) - A series of very thoughtful videos by TIm Hunkin, where he shares his knowledge and experience on a variety of mechanicall, electric and electronic components. Great examples from his electromechanical arcade machines.. Made by [Tim Hunkin](https://www.timhunkin.com/). Price: Free.
-- [Beyond Screens (series of itnerviews)](https://www.youtube.com/playlist?list=PLIBx3NWj3We67Bdr-Cmweb9ZyGdceiJJk) - A series of interviews with altctrl creators, hosted by Alistair Aitcheson and Tatiana Vilela dos Santos, on the IndieCade Twitch channel.. Made by [Alistair Aitcheson; Tatiana Vilela dos Santos](https://www.indiecade.com/beyond-screens/). Price: Free.
+- [[alt.ctrl] An introduction to the world of altctrls (video series)](https://www.youtube.com/playlist?list=PLIBx3NWj3We5ZJdQpYSSdl-E2vuGTmyYZ) - A series of videos [alt.ctrl] is a series of videos about alternative controller game and playful installation making. Made by [Tatiana Vilela dos Santos](http://mechbird.fr). Price: Free.
+- [The Secret Life of Components (video series)](https://www.youtube.com/playlist?list=PLtaR0lZhSyANYB0Xxb9OSp47pHuQmj3Ol) - A series of very thoughtful videos by TIm Hunkin, where he shares his knowledge and experience on a variety of mechanical, electric and electronic components. Great examples from his electromechanical arcade machines. Made by [Tim Hunkin](https://www.timhunkin.com/). Price: Free.
+- [Beyond Screens (series of interviews)](https://www.youtube.com/playlist?list=PLIBx3NWj3We67Bdr-Cmweb9ZyGdceiJJk) - A series of interviews with altctrl creators, hosted by Alistair Aitcheson and Tatiana Vilela dos Santos, on the IndieCade Twitch channel. Made by [Alistair Aitcheson; Tatiana Vilela dos Santos](https://www.indiecade.com/beyond-screens/). Price: Free.
 
 ---
 
