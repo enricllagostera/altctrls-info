@@ -157,3 +157,6 @@ This list and website are licensed under an [Attribution-ShareAlike 4.0 Internat
 ![Logo FRQSC]({{ "/assets/logo-frqsc-couleur-300x136.png" | prepend: site.baseurl }})
 
 Enric Granzotto Llagostera’s work on this project is partially funded by the Fonds de recherche du Québec – Société et culture (FRQSC), as part of the Doctoral Research Scholarship 2020-B2Z-276952.
+
+<script data-goatcounter="https://tamaduai.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
