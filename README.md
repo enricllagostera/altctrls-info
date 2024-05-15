@@ -47,7 +47,7 @@ Some tools are a bit of an amalgam, and cannot really fit into some of the other
 - [Installation Required - Why you should build an arcade cabinet for your game.](https://gamasutra.com/blogs/AlexJohansson/20141230/233317/Installation_Required__Why_you_should_build_an_arcade_cabinet_for_your_game.php) - A great article about different challenges and factors involved in designing a custom cabinet for a game. Made by [Alex Johansson](https://alexvscoding.itch.io/). Price: Free.
 - [Make Your Own Slot Machine](http://www.underthepier.com/01_howtocoinmech.htm) - A guide on making coin-operated machines. Made by [Tim Hunkin](http://www.underthepier.com/index.htm). Price: Free.
 - [Queering Control(lers) Through Reflective Game Design Practices](http://gamestudies.org/1803/articles/marcotte) - A great article on how controls are key to changing the hegemonic status quo of mainstream game design, from a queer perspective together with critical design. Made by [Jess Marcotte](http://jeka.games). Price: Free.
-- [Videogames That Go Squish](http://v21.io/blog/universal-principles-of-digital-physical-game-design/) - A very insightful article about designing physical-digital games. Made by [George Buckenham](http://v21.io/). Price: Free.
+- [Videogames That Go Squish](http://v21.io/blog/universal-principles-of-digital-physical-game-design/) - A very insightful article about designing physical-digital games. Made by [V Buckenham](http://v21.io/). Price: Free.
 
 ### Crafting
 
